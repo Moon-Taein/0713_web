@@ -1,0 +1,18 @@
+웹 어플리케이션에 정적자원을 위치시키는 방법과 jsp내에서 자원에 접근하는 방법?
+
+redirect?
+
+jsp에서 request scope에 속성(이름=객체 값)을 설정 및 접근하기 위해 참조해야할 객체와 메소드?
+forward?
+jsp에서 forward를 수행하는 방법?
+request scope에 존재하는 속성은 언제 해제되나요?
+
+application 객체에 설정된 속성의 유효한 범위(scope)는?
+
+-----
+
+pizzacal.jsp를
+논리 구조를 가지는 페이지와
+화면 구성을 출력하는 페이지로 분리하여
+요청처리 흐름이 이어지는(forward)
+구성으로 변경해 보세요.
